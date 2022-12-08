@@ -1,32 +1,32 @@
 # Advanced-Data-Structure
-Repository contains activities done during college learning (All codes (variable names) were made in Portuguese)
-Repositório contém atividades feitas durante aprendizado na faculdade
-
-Matriz Curricular                                 Curriculum
-  Grafos                                            Graphs
-  Percusro em Grafos                                Path in Graphs                                                
-  Representação                                     Representation                                  
-    Lista de Adjacência                               Adjacency List               
-    Matriz de Adjacência                              Adjacency Matrix              
-    Matriz de Incidência                              Incidence Matrix              
-  Uso de arquivos externos em C                     Using external files in C                       
-  Busca em Grafos                                   Search in Graphs         
-    Busca em Profundidade                             Depth Search                 
-    Busca em Largura                                  Search in width          
-  Lista de Prioridades                              Priority List              
-    Heap                                              Heap
-  Árvores AVL                                       AVL trees     
-  Conjuntos                                         Sets   
-  Tabelas Hash                                      Hash Tables      
-    Tamanho da Tabela                                 Table Size             
-    Função de Hashing                                 Hashing function           
-    Hashing Universal                                 Universal Hashing           
-    Hashing Imperfeito                                Imperfect Hashing            
-    Hashing Perfeito                                  Perfect Hash          
-  Árvore B                                          B-tree  
-    Busca                                             Search
-    Inserção                                          Insertion  
-    Exclusão                                          Exclusion  
+Repository contains activities done during college learning (All codes (variable names) were made in Portuguese)<br/> 
+Repositório contém atividades feitas durante aprendizado na faculdade<br /> 
+<br /> 
+Curriculum___________Matriz Curricular
+- Graphs_________________Grafos
+- Path in Graphs_________________Percusro em Grafos
+- Representation_________________Representação
+- Adjacency List_________________Lista de Adjacência
+	-	Adjacency Matrix_________________Matriz de Adjacência
+	- Incidence Matrix_________________Matriz de Incidência
+-	Using external files in C_________________Uso de arquivos externos em C 
+- Search in Graphs_________________Busca em Grafos
+  - Depth Search_________________Busca em Profundidade
+  - Search in width_________________Busca em Largura
+- Priority List_________________Lista de Prioridades
+  - Heap_________________Heap
+- AVL trees_________________Árvores AVL
+- Sets________________Conjuntos
+- Hash Tables_________________Tabelas Hash
+  - Table Size_________________Tamanho da Tabela
+  - Hashing function_________________Função de Hashing
+  - Universal Hashing_________________Hashing Universal
+  -	Imperfect Hashing_________________Hashing Imperfeito
+  - Perfect Hash_________________Hashing Perfeito
+- B-tree_________________Árvore B
+  -	Search_________________Busca
+  - Insertion_________________Inserção
+  - Exclusion_________________Exclusão
     
 
 
